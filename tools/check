@@ -6,9 +6,6 @@
 # - No 2 or more consecutive newlines.
 # - Consistent use of tabs and spaces.
 #
-# Author: Dave Eddy <dave@daveeddy.com>
-# Date: May 21, 2021
-# License: MIT
 
 # colors
 [[ -t 1 ]] || tput() { true; }
